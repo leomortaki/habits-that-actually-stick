@@ -1,0 +1,17 @@
+{
+  "name": "Habits That Actually Stick",
+  "tagline": "The Real Guide to Building Good Habits (Without Willpower)",
+  "format": "PDF",
+  "pages": "50+",
+  "price": "14-19",
+  "status": "writing",
+  "category": "self-improvement",
+  "target_audience": "People who've failed at habits, want systems over motivation",
+  "key_pain_point": "Why willpower fails, systems work",
+  "created": "2026-02-27",
+  "files": {
+    "prd": "PRD.md",
+    "content": "content/",
+    "output": "output/"
+  }
+}
